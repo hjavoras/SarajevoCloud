@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/user1/AndroidStudioProjects/SarajevoCloud/droidAR/build/intermediates/res/merged/androidTest/debug/raw/camaro_mtl",
+        "source": "/home/user1/AndroidStudioProjects/SarajevoCloud/droidAR/build/intermediates/bundles/debug/res/raw/camaro_mtl"
+    },
+    {
+        "merged": "/home/user1/AndroidStudioProjects/SarajevoCloud/droidAR/build/intermediates/res/merged/androidTest/debug/raw/camaro_obj",
+        "source": "/home/user1/AndroidStudioProjects/SarajevoCloud/droidAR/build/intermediates/bundles/debug/res/raw/camaro_obj"
+    }
+]
